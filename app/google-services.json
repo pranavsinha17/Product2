@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "290797898437",
+    "firebase_url": "https://mountyproject.firebaseio.com",
+    "project_id": "mountyproject",
+    "storage_bucket": "mountyproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290797898437:android:9abaa67a745e541e",
+        "android_client_info": {
+          "package_name": "com.example.product2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290797898437-2995b2nqilo26o0eu1e4g4v9jttk1j8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.product2",
+            "certificate_hash": "a6c5b1aa10c1bdb8c79884652f92e2e4878ca58c"
+          }
+        },
+        {
+          "client_id": "290797898437-5ac3fkmoru9lc548fe03pe3lb97koa03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZyBiI0Xw_sUHTdjxOFv57fJoi_lz7wPc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290797898437-5ac3fkmoru9lc548fe03pe3lb97koa03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
